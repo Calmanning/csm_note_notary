@@ -1,0 +1,24 @@
+{
+  "name": "csm_note_notary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Calmanning/csm_note_notary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Calmanning/csm_note_notary/issues"
+  },
+  "homepage": "https://github.com/Calmanning/csm_note_notary#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
